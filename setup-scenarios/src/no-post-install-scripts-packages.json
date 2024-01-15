@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "d3": "^7.8.5",
+    "date-fns": "^3.2.0",
+    "dayjs": "^1.11.10",
+    "express": "^4.18.2",
+    "fs-extra": "^11.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "koa": "^2.15.0",
+    "lodash-es": "^4.17.21",
+    "mobx": "^6.12.0",
+    "node-fetch": "^3.3.2",
+    "react": "^18.2.0",
+    "redux": "^5.0.1",
+    "sequelize": "^6.35.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3",
+    "underscore": "^1.13.6",
+    "vue": "^3.4.13"
+  }
+}
