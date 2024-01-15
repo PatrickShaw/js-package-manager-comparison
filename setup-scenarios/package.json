@@ -3,11 +3,29 @@
   "version": "1.0.0",
   "license": "MIT",
   "dependencies": {
+    "@types/node": "^20.11.2",
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21",
+    "rimraf": "^5.0.5",
     "ts-node": "^10.9.2",
-    "typescript": "^5.3.3"
+    "typescript": "^5.3.3",
+    "zx": "^7.2.3"
   },
   "scripts": {
     "start": "./src/setup-scenarios.ts"
   },
-  "packageManager": "yarn@4.0.2"
+  "packageManager": "yarn@4.0.2",
+  "devDependencies": {
+    "@types/angular": "^1",
+    "@types/babel__core": "^7",
+    "@types/eslint": "^8",
+    "@types/fs-extra": "^11",
+    "@types/inquirer": "^9",
+    "@types/js-yaml": "^4",
+    "@types/minimist": "^1",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/underscore": "^1",
+    "@types/uuid": "^9"
+  }
 }
