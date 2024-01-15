@@ -1,9 +1,11 @@
 {
   "dependencies": {
     "@grpc/grpc-js": "^1.9.13",
+    "bcrypt": "^5.1.1",
     "canvas": "^2.11.2",
     "esbuild": "^0.19.11",
-    "grpc": "^1.24.11",
+    "node-gyp": "^10.0.1",
+    "puppeteer": "^21.7.0",
     "sass": "^1.69.7",
     "sharp": "^0.33.2",
     "sqlite3": "^5.1.7"
