@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "test-projects"
+		},
+		{
+			"path": "setup-scenarios"
+		},
+		{
+		  "path": ".",
+		  "name": "root"
+		},
+	],
+}
